@@ -2,4 +2,4 @@
 
 Utveckling av app för lagerhanteringssystem
 
-# Beskrivning
+# Beskrivning app
